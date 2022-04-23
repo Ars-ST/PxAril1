@@ -268,7 +268,7 @@ public class Main {
                             );
                         }
 
-                        //Выводим на экран сообщения по индексу
+                        //Выводим на экран сообщения по индексу-------------------
                         if (intTfIdSMS < boxSMS.size()) {
                             //mainDisplay
                             tfRecipient.setText(boxSMS.get(intTfIdSMS).getRecipient());
