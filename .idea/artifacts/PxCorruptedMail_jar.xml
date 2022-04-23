@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PxCorruptedMail:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PxCorruptedMail_jar</output-path>
+    <root id="archive" name="PxCorruptedMail.jar">
+      <element id="module-output" name="PxCorruptedMail" />
+    </root>
+  </artifact>
+</component>
